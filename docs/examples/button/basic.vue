@@ -32,7 +32,7 @@
     <el-button type="success" :icon="Check" circle />
     <el-button type="info" :icon="Message" circle />
     <el-button type="warning" :icon="Star" circle />
-    <el-button type="danger" :icon="Delete" circle />
+    <el-button type="danger" icon="ep:upload" circle />
   </div>
 </template>
 
